@@ -1,1 +1,2 @@
-# CAPSTONE
+# Description about the Project
+The dataset comprises detailed information on airports from various countries, including essential attributes such as codenames, elevation, frequency, runways, and Wikipedia links. The codenames provide unique identifiers for each airport, streamlining communication and navigation in the aviation industry. Elevation data allows pilots to make informed decisions during takeoff and landing, considering the surrounding terrain and weather conditions
